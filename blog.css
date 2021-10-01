@@ -1,0 +1,54 @@
+
+body{
+    background-image:URL('EL2.jpg');
+    
+   
+    background-size:contain;
+
+}
+
+.section{
+    height: 220px;
+}
+
+.aside{
+    height: 220px;
+}
+
+img{
+    height: 270px;
+    width: 270px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-radius: 10px;
+    
+
+}
+
+.container {
+    border:4px solid rgba(177, 36, 36, 0.9);
+    background-image:url("LigaEuropy.jpg") ;
+    background: image 8px;
+    width:800px;
+    height: 300px;
+    display:flex;
+    margin:auto;
+    margin-top: 40px;
+    flex-direction: row;
+}
+
+.article{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    width:90%;
+    margin:auto;
+    box-sizing: content-box;
+    color: white;
+
+}
+
+#video:hover{
+    color: aquamarine;
+    border:1px solid yellow;
+
+}
