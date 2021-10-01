@@ -3,7 +3,7 @@ body{
     background-image:URL('EL2.jpg');
     
    
-    background-size:contain;
+    background-size:cover;
 
 }
 
